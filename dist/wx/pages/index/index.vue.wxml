@@ -1,0 +1,5 @@
+<import src="/components/card.vue.wxml" /><template name="c78fedc6">
+  <view class="_div data-v-2cfcf99e index">
+    <view class="_div data-v-2cfcf99e placeholder" wx:key="key" key="{{key}}" wx:for="{{list}}" wx:for-index="key" wx:for-item="item"><template data="{{...$root[$kk+'0_'+key], $root}}" is="1ade933c"></template></view>
+  </view>
+</template>

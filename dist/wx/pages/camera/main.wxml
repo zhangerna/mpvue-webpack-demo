@@ -1,0 +1,1 @@
+<import src="/pages/camera/index.vue.wxml" /><template is="67f85e50" data="{{ ...$root['0'], $root }}"/>

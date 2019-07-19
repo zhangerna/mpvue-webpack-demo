@@ -1,0 +1,11 @@
+
+.index .placeholder.data-v-2cfcf99e {
+  margin: 20rpx;
+}
+.list-card .right {
+  margin-left: 20rpx;
+}
+.list-card .placeholder-top {
+  margin-top: 40rpx;
+  color: blue;
+}

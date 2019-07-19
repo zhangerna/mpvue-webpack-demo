@@ -1,0 +1,5 @@
+<template name="67f85e50">
+  <view class="_div data-v-7843b288 camera"><input type="file" accept="image/*" id="show-picture" bindblur="handleProxy" data-eventid="{{'1_0'}}" data-comkey="{{$k}}" class="_input data-v-7843b288" />
+    <image wx:if="{{image}}" src="{{image}}" width="100%" class="_img data-v-7843b288"></image>
+  </view>
+</template>

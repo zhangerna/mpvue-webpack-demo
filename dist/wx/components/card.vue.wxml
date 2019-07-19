@@ -1,0 +1,9 @@
+<template name="1ade933c">
+  <view class="_div data-v-36a78250 weui-flex list-card">
+    <image class="_img data-v-36a78250 weui-flex__item" src="{{data.img}}" width="40%"></image>
+    <view class="_div data-v-36a78250 weui-flex__item right">
+      <view class="_h3 data-v-36a78250">{{ data.title }}</view>
+      <view class="_p data-v-36a78250">{{ data.des }}</view> <button class="_button data-v-36a78250 weui-cell_link placeholder-top" bindtap="handleProxy" data-eventid="{{'2_0'}}" data-comkey="{{$k}}">拍照</button> <button class="_button data-v-36a78250 weui-cell_link placeholder-top" bindtap="handleProxy" data-eventid="{{'2_1'}}" data-comkey="{{$k}}">地图</button>
+    </view>
+  </view>
+</template>

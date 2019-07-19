@@ -1,0 +1,6 @@
+<template name="3aeb3a5e">
+  <view class="_div data-v-47c07f86 camera">
+    <camera device-position="back" flash="off" binderror="error" style="width: 100%; height: 300px;" class="_camera data-v-47c07f86"></camera> <button bindtap="handleProxy" data-eventid="{{'1_0'}}" data-comkey="{{$k}}" class="_button data-v-47c07f86">拍照</button>
+    <image mode="widthFix" src="{{image}}" class="_image data-v-47c07f86"></image>
+  </view>
+</template>
